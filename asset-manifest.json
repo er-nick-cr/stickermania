@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/stickermania/static/css/main.0f67e2dd.chunk.css",
+    "main.js": "/stickermania/static/js/main.56e071d9.chunk.js",
+    "main.js.map": "/stickermania/static/js/main.56e071d9.chunk.js.map",
+    "runtime-main.js": "/stickermania/static/js/runtime-main.acc551c1.js",
+    "runtime-main.js.map": "/stickermania/static/js/runtime-main.acc551c1.js.map",
+    "static/js/2.08c1439b.chunk.js": "/stickermania/static/js/2.08c1439b.chunk.js",
+    "static/js/2.08c1439b.chunk.js.map": "/stickermania/static/js/2.08c1439b.chunk.js.map",
+    "static/js/3.65597590.chunk.js": "/stickermania/static/js/3.65597590.chunk.js",
+    "static/js/3.65597590.chunk.js.map": "/stickermania/static/js/3.65597590.chunk.js.map",
+    "index.html": "/stickermania/index.html",
+    "static/css/main.0f67e2dd.chunk.css.map": "/stickermania/static/css/main.0f67e2dd.chunk.css.map",
+    "static/js/2.08c1439b.chunk.js.LICENSE.txt": "/stickermania/static/js/2.08c1439b.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/stickermania/static/media/intro-pictire.2e055773.png",
+    "static/media/header-logo.419fdac1.svg": "/stickermania/static/media/header-logo.419fdac1.svg",
+    "static/media/lead-cat.eb33f552.jpg": "/stickermania/static/media/lead-cat.eb33f552.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.acc551c1.js",
+    "static/js/2.08c1439b.chunk.js",
+    "static/css/main.0f67e2dd.chunk.css",
+    "static/js/main.56e071d9.chunk.js"
+  ]
+}

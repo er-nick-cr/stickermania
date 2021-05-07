@@ -1,7 +1,0 @@
-.intro__picture {
-	background-image: url(../../../images/intro-pictire.png);
-	background-size: cover;
-	width: calc((100vh - 15.7%) * 0.84);
-	height: calc(100vh - 15.7%);
-	background-repeat: no-repeat;
-}
