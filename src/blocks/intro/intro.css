@@ -1,0 +1,8 @@
+.intro {
+	background-color: #fbba06;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	height: 100vh;
+	padding: 126px 69px 62px 69px;
+}

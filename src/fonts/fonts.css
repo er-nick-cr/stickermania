@@ -1,0 +1,15 @@
+@font-face {
+	src: url('../fonts/Ubuntu-Regular.ttf') format('ttf');
+	font-family: 'Ubuntu';
+	font-weight: 400;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+@font-face {
+	src: url('../fonts/Ubuntu-Bold.ttf') format('ttf');
+	font-family: 'Ubuntu';
+	font-weight: bold;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
