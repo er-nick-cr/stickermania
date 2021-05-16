@@ -1,4 +1,5 @@
 .goods {
+	width: 100%;
 	display: grid;
 	grid-template-areas:
 		'small-stickers small-stickers'
