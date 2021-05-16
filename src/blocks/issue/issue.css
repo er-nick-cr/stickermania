@@ -1,0 +1,9 @@
+.issue {
+	width: 100%;
+	height: 100vh;
+	background-image: url(../../images/issue-man.png);
+	background-size: 43%;
+	background-repeat: no-repeat;
+	background-position: 45% 100%;
+	position: relative;
+}

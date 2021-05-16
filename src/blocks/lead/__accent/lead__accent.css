@@ -1,0 +1,17 @@
+.lead__accent {
+	display: inline-block;
+	position: relative;
+	z-index: 2;
+	color: #191919;
+}
+
+.lead__accent::before {
+	content: '';
+	position: absolute;
+	background-color: #fbba06;
+	width: 102%;
+	height: 30px;
+	z-index: -1;
+	bottom: 28%;
+	left: -5px;
+}

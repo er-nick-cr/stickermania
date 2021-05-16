@@ -1,0 +1,12 @@
+.users {
+	width: 100%;
+	box-sizing: border-box;
+	background-image: url(../../images/users-background.png);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-start;
+	padding: 80px 80px 100px 80px;
+}

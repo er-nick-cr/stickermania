@@ -1,0 +1,4 @@
+.stickerpage_color {
+	flex-direction: column;
+	grid-area: stickerpage_color;
+}

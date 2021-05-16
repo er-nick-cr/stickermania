@@ -1,0 +1,9 @@
+.small-stickers {
+	width: 100%;
+	background-color: #fbba00;
+	margin: 0;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	grid-area: small-stickers;
+}

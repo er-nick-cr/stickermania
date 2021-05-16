@@ -1,0 +1,9 @@
+.feedback__title {
+	font-weight: bold;
+	font-size: 48px;
+	line-height: 72px;
+	letter-spacing: -0.015em;
+	color: #1f1f1f;
+	margin: 0;
+	margin-top: 120px;
+}

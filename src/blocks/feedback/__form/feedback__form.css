@@ -1,0 +1,7 @@
+.feedback__form {
+	border: 1px solid rgba(0, 0, 0, 0.5);
+	background-color: #fff;
+	width: 622px;
+	box-sizing: border-box;
+	padding: 77px 64px 24px 64px;
+}

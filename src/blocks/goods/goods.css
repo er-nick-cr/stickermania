@@ -1,0 +1,7 @@
+.goods {
+	display: grid;
+	grid-template-areas:
+		'small-stickers small-stickers'
+		'stickerpage stickerpage_color'
+		'small-stickers_big small-stickers_big';
+}

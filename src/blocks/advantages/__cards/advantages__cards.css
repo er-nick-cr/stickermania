@@ -1,0 +1,10 @@
+.advantages__cards {
+	max-width: 100%;
+	margin: 0 auto;
+	padding: 0 80px 0 80px;
+	display: grid;
+	grid-template-columns: repeat(4, 310px);
+	grid-template-rows: 317px 300px;
+	row-gap: 20px;
+	column-gap: 130px;
+}

@@ -1,0 +1,10 @@
+.issue__element {
+	list-style: none;
+	text-decoration: none;
+	font-size: 24px;
+	line-height: 36px;
+	letter-spacing: -0.015em;
+	width: 301px;
+	color: #191919;
+	position: relative;
+}

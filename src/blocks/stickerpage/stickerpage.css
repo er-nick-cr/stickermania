@@ -1,0 +1,10 @@
+.stickerpage {
+	width: 50vw;
+	border: 1px solid #1f1f1f;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	padding: 57px 57px 57px 80px;
+	box-sizing: border-box;
+	grid-area: stickerpage;
+}
