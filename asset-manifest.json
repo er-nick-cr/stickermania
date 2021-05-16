@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/stickermania/static/css/main.228f956f.chunk.css",
-    "main.js": "/stickermania/static/js/main.5f290a8d.chunk.js",
-    "main.js.map": "/stickermania/static/js/main.5f290a8d.chunk.js.map",
+    "main.css": "/stickermania/static/css/main.5a5a871c.chunk.css",
+    "main.js": "/stickermania/static/js/main.f86e5f78.chunk.js",
+    "main.js.map": "/stickermania/static/js/main.f86e5f78.chunk.js.map",
     "runtime-main.js": "/stickermania/static/js/runtime-main.acc551c1.js",
     "runtime-main.js.map": "/stickermania/static/js/runtime-main.acc551c1.js.map",
     "static/js/2.08c1439b.chunk.js": "/stickermania/static/js/2.08c1439b.chunk.js",
@@ -10,16 +10,16 @@
     "static/js/3.65597590.chunk.js": "/stickermania/static/js/3.65597590.chunk.js",
     "static/js/3.65597590.chunk.js.map": "/stickermania/static/js/3.65597590.chunk.js.map",
     "index.html": "/stickermania/index.html",
-    "static/css/main.228f956f.chunk.css.map": "/stickermania/static/css/main.228f956f.chunk.css.map",
+    "static/css/main.5a5a871c.chunk.css.map": "/stickermania/static/css/main.5a5a871c.chunk.css.map",
     "static/js/2.08c1439b.chunk.js.LICENSE.txt": "/stickermania/static/js/2.08c1439b.chunk.js.LICENSE.txt",
-    "static/media/header-logo.419fdac1.svg": "/stickermania/static/media/header-logo.419fdac1.svg",
-    "static/media/index.css": "/stickermania/static/media/issue-man.8409fd66.png",
+    "static/media/header-logo.2216c95d.svg": "/stickermania/static/media/header-logo.2216c95d.svg",
+    "static/media/index.css": "/stickermania/static/media/users-background.7e654ca9.png",
     "static/media/lead-cat.eb33f552.jpg": "/stickermania/static/media/lead-cat.eb33f552.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.acc551c1.js",
     "static/js/2.08c1439b.chunk.js",
-    "static/css/main.228f956f.chunk.css",
-    "static/js/main.5f290a8d.chunk.js"
+    "static/css/main.5a5a871c.chunk.css",
+    "static/js/main.f86e5f78.chunk.js"
   ]
 }
