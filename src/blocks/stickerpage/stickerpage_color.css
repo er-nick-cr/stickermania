@@ -1,4 +1,5 @@
 .stickerpage_color {
+	width: 100%;
 	flex-direction: column;
 	grid-area: stickerpage_color;
 }
